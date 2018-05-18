@@ -1,0 +1,122 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{de_berg_chapter_2000}{incollection}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=aff678a462fa10e25a9a69949be042aa}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=3d59fa21cf3004cfd6cc43712546d3cf}{%
+           family={Kreveld},
+           familyi={K\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=f90d0f3a421b04996db7eb8faf3572fd}{%
+           family={Overmars},
+           familyi={O\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=016af449c3c6b4d49449d2518c137c08}{%
+           family={Schwarzkopf},
+           familyi={S\bibinitperiod},
+           given={Otfried},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{authorbibnamehash}{cf4c816267796881466ff72c0e717aea}
+      \strng{authornamehash}{cf4c816267796881466ff72c0e717aea}
+      \strng{authorfullhash}{3f8d6f559e666753114c35df2cf48cd4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computational {Geometry} (2nd revised ed.)}
+      \field{isbn}{3-540-65620-0}
+      \field{title}{Chapter 3: {Polygon} {Triangulation}}
+      \field{year}{2000}
+      \field{pages}{45\bibrangedash 61}
+      \range{pages}{17}
+    \endentry
+    \entry{__2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a574f91a73a25bb94843465ece403560}{%
+           family={Олейник},
+           familyi={О\bibinitperiod},
+           given={Т.А.},
+           giveni={Т\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {МИЭТ}%
+      }
+      \strng{namehash}{a574f91a73a25bb94843465ece403560}
+      \strng{fullhash}{a574f91a73a25bb94843465ece403560}
+      \strng{bibnamehash}{a574f91a73a25bb94843465ece403560}
+      \strng{authorbibnamehash}{a574f91a73a25bb94843465ece403560}
+      \strng{authornamehash}{a574f91a73a25bb94843465ece403560}
+      \strng{authorfullhash}{a574f91a73a25bb94843465ece403560}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Основы дискретной математики: теория и практика}
+      \field{title}{Деревья}
+      \field{year}{2010}
+    \endentry
+    \entry{prim_shortest_1957}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8e6db881b3dbc51873854aad9a625516}{%
+           family={Prim},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{fullhash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{bibnamehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{authorbibnamehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{authornamehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{authorfullhash}{8e6db881b3dbc51873854aad9a625516}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bell System Technical Journal}
+      \field{title}{Shortest connection networks {And} some generalizations}
+      \field{year}{1957}
+      \field{number}{36 (6)}
+      \range{number}{-1}
+      \field{pages}{1389\bibrangedash 1401}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/j.1538-7305.1957.tb01515.x
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
