@@ -3248,9 +3248,12 @@
     <bcf:datasource type="file" datatype="bibtex">sources.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">de_berg_chapter_2000</bcf:citekey>
-    <bcf:citekey order="2">__2010</bcf:citekey>
-    <bcf:citekey order="3">prim_shortest_1957</bcf:citekey>
+    <bcf:citekey order="1">noauthor_geography_nodate</bcf:citekey>
+    <bcf:citekey order="2">prim_shortest_1957</bcf:citekey>
+    <bcf:citekey order="3">de_berg_chapter_2000</bcf:citekey>
+    <bcf:citekey order="4">__2010</bcf:citekey>
+    <bcf:citekey order="5">prim_shortest_1957</bcf:citekey>
+    <bcf:citekey order="6">noauthor_introduction_2009</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

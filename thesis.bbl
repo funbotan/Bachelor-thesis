@@ -19,6 +19,54 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{noauthor_geography_nodate}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{Geography {Markup} {Language} {|} {OGC}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Geography Markup Language | OGC:C\:\\Users\\Саша\\Zotero\\storage\\HPADVRNC\\gml.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.opengeospatial.org/standards/gml
+      \endverb
+      \verb{url}
+      \verb http://www.opengeospatial.org/standards/gml
+      \endverb
+    \endentry
+    \entry{prim_shortest_1957}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8e6db881b3dbc51873854aad9a625516}{%
+           family={Prim},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{fullhash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{bibnamehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{authorbibnamehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{authornamehash}{8e6db881b3dbc51873854aad9a625516}
+      \strng{authorfullhash}{8e6db881b3dbc51873854aad9a625516}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bell System Technical Journal}
+      \field{title}{Shortest connection networks {And} some generalizations}
+      \field{year}{1957}
+      \field{number}{36 (6)}
+      \range{number}{-1}
+      \field{pages}{1389\bibrangedash 1401}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/j.1538-7305.1957.tb01515.x
+      \endverb
+    \endentry
     \entry{de_berg_chapter_2000}{incollection}{useauthor=false}
       \name{author}{4}{}{%
         {{hash=aff678a462fa10e25a9a69949be042aa}{%
@@ -52,8 +100,8 @@
       \strng{authorbibnamehash}{cf4c816267796881466ff72c0e717aea}
       \strng{authornamehash}{cf4c816267796881466ff72c0e717aea}
       \strng{authorfullhash}{3f8d6f559e666753114c35df2cf48cd4}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labeltitlesource}{title}
       \field{booktitle}{Computational {Geometry} (2nd revised ed.)}
       \field{isbn}{3-540-65620-0}
@@ -79,42 +127,32 @@
       \strng{authorbibnamehash}{a574f91a73a25bb94843465ece403560}
       \strng{authornamehash}{a574f91a73a25bb94843465ece403560}
       \strng{authorfullhash}{a574f91a73a25bb94843465ece403560}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Основы дискретной математики: теория и практика}
       \field{title}{Деревья}
       \field{year}{2010}
     \endentry
-    \entry{prim_shortest_1957}{article}{}
-      \name{author}{1}{}{%
-        {{hash=8e6db881b3dbc51873854aad9a625516}{%
-           family={Prim},
-           familyi={P\bibinitperiod},
-           given={R.\bibnamedelimi C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+    \entry{noauthor_introduction_2009}{book}{}
+      \list{language}{1}{%
+        {English}%
       }
-      \strng{namehash}{8e6db881b3dbc51873854aad9a625516}
-      \strng{fullhash}{8e6db881b3dbc51873854aad9a625516}
-      \strng{bibnamehash}{8e6db881b3dbc51873854aad9a625516}
-      \strng{authorbibnamehash}{8e6db881b3dbc51873854aad9a625516}
-      \strng{authornamehash}{8e6db881b3dbc51873854aad9a625516}
-      \strng{authorfullhash}{8e6db881b3dbc51873854aad9a625516}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
+      \list{location}{1}{%
+        {Cambridge, Mass.}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Bell System Technical Journal}
-      \field{title}{Shortest connection networks {And} some generalizations}
-      \field{year}{1957}
-      \field{number}{36 (6)}
-      \range{number}{-1}
-      \field{pages}{1389\bibrangedash 1401}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1002/j.1538-7305.1957.tb01515.x
-      \endverb
+      \field{abstract}{•Preface{<}br{>}I Foundations{<}br{>}1 The Role of Algorithms in Computing{<}br{>}2 Getting Started{<}br{>}3 Growth of Functions{<}br{>}4 Recurrences{<}br{>}5 Probabilistic Analysis and Randomized Algorithms{<}br{>}II Sorting and Order Statistics{<}br{>}6 Heapsort{<}br{>}7 Quicksort{<}br{>}8 Sorting in Linear Time{<}br{>}9 Medians and Order Statistics{<}br{>}III Data Structures{<}br{>}10 Elementary Data Structures{<}br{>}11 Hash Table{<}br{>}12 Binary Search Trees{<}br{>}13 Red-Black Trees{<}br{>}14 Augmenting Data Structures{<}br{>}IV Advanced Design and Analysis Techniques{<}br{>}15 Dynamic Programming{<}br{>}16 Greedy Algorithms{<}br{>}17 Amortized Analysis{<}br{>}V Advanced Data Structures{<}br{>}18 B-Trees{<}br{>}19 Binomial Heaps{<}br{>}20 Fibonacci Heaps{<}br{>}21 Data Structures for Disjoint Sets{<}br{>}VI Graph Algorithms{<}br{>}22 Elementary Graph Algorithms{<}br{>}23 Minimum Spanning Trees{<}br{>}24 Single-Source Shortest Paths{<}br{>}25 All-Pairs Shortest Paths{<}br{>}26 Maximum Flow{<}br{>}VII Selected Topics{<}br{>}27 Sorting Networks{<}br{>}28 Matrix Operations{<}br{>}29 Linear Programming{<}br{>}30 Polynomials and the FFT{<}br{>}31 Number-Theoretic Algorithms{<}br{>}32 String Matching{<}br{>}33 Computational Geometry{<}br{>}(and more...){<}br{>}}
+      \field{isbn}{978-81-203-4007-7}
+      \field{note}{OCLC: 984411568}
+      \field{title}{Introduction to algorithms}
+      \field{year}{2009}
     \endentry
   \enddatalist
 \endrefsection
