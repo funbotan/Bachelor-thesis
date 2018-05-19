@@ -1,0 +1,16 @@
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\bin\Debug\PSI_GIS.exe
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\bin\Debug\PSI_GIS.pdb
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.exe
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.pdb
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.exe
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.pdb
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.FileDialog.resources
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.csproj.GenerateResource.Cache
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\bin\Debug\PSI_GIS.exe
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\bin\Debug\PSI_GIS.pdb
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.FileDialog.resources
+C:\Users\Саша\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.csproj.GenerateResource.Cache
+D:\Dropbox\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROJECTS\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.exe
+D:\Dropbox\PROJECTS\psi_gis\PSI_GIS\PSI_GIS\obj\Debug\PSI_GIS.pdb
