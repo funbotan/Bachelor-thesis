@@ -22,10 +22,61 @@
     \label{fig:dialog}
 \end{figure}
 
-\subsection{Объектная модель данных}
+\subsection{Объектная модель}
 \label{}
 
+\begin{center}
+\begin{tikzpicture}
+\umlclass[x=4,y=-13]{Vertex}{
+  X, Y : double
+}{
+ distance(v : Vertex) : double
+}
+\umlclass[x=-5,y=-13]{Line}{
+  a, b : Vertex
+}{
+ intersects(l : Line) : bool \\
+ length() : double
+}
+\umlclass[x=-0.5,y=-7]{Poly}{
+  vert : Vertex[]
+}{
+ Poly(XML : string) \\
+ toXML() : XElement \\
+ clearPath(v0, v1 : int) : bool \\
+ reduce(poly : Poly) : Poly
+}
+\umlclass[x=4]{OuterPoly}{
+  IP : Poly[] \\
+  cutsGraph : int[,]
+}{
+ lineAllowed(line : Line) : bool \\
+ shortestN2(p0, p1 : int) : int[2] \\
+ buildPath(p0, p1 : int) : void \\
+ Prim() : void \\
+ unite() : void
+}
+\umlclass[x=-5]{FeatureMember}{
+  pols : list<Poly> \\
+  context : XElement \\
+}{
+ FeatureMember(node : XElement) \\
+ toXML() : XElement
+}
+\umlunicompo[]{Line}{Vertex}
+\umlunicompo[geometry=-|, anchor1=-20]{Poly}{Vertex}
+\umlunicompo[geometry=|-, stereo=list]{FeatureMember}{Poly}
+\umlunicompo[geometry=|-, stereo=array, anchor2=20]{OuterPoly}{Poly}
+\end{tikzpicture}
+\end{center}
 
+\begin{itemize}
+\item \textbf{Vertex}: базовый класс, представляет точку на плоскости.
+\item \textbf{Line}: представляет отрезок. Состоит из двух объектов Vertex. Содержит методы для измерения длины и проверки пересечения с другим отрезком.
+\item \textbf{Poly}: Общее представление многоугольника. Состоит из объектов Vertex. Реализует методы прямого и обратного преобразования в GML-элемент (Poly, toXML). Метод ClearPath проверяет, можно ли соединить две вершины многоугольника, не пересекая при этом его сторон. Метод reduce реализует алгоритм, описанный в \ref{task2}.
+\item \textbf{OuterPoly}: Представляет многосвязную область. Состоит из внешней границы, представляемой объектом Poly, и массива многоугольников (IP), представляющих <<дыры>>. Метод lineAllowed проверяет, можно ли провести внутри области отрезок, не пересекающий сторон ни одного из составляющих ее многоугольников. Метод shortestN2 определяет кратчайший отрезок, соединяющий два многоугольника внутри области. Метод unite реализует алгоритм, описанный в \ref{task1} при помощи методов buildPath для построения полного графа соединений и Prim для алгоритма Прима.
+\item \textbf{FeatureMember}: хранит метаданные областей, не имеющие отношения к их геометрии. Реализует ввод и вывод в GML.
+\end{itemize}
 
 \subsection{Пример работы}
 \label{}
