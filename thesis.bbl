@@ -287,6 +287,52 @@
       \verb 10.1002/j.1538-7305.1957.tb01515.x
       \endverb
     \endentry
+    \entry{kruskal_shortest_1956}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cbf230f3dd477a2c64fd24b76c647aef}{%
+           family={Kruskal},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cbf230f3dd477a2c64fd24b76c647aef}
+      \strng{fullhash}{cbf230f3dd477a2c64fd24b76c647aef}
+      \strng{bibnamehash}{cbf230f3dd477a2c64fd24b76c647aef}
+      \strng{authorbibnamehash}{cbf230f3dd477a2c64fd24b76c647aef}
+      \strng{authornamehash}{cbf230f3dd477a2c64fd24b76c647aef}
+      \strng{authorfullhash}{cbf230f3dd477a2c64fd24b76c647aef}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9939}
+      \field{journaltitle}{Proceedings of the American Mathematical Society}
+      \field{month}{1}
+      \field{title}{On the shortest spanning subtree of a graph and the traveling salesman problem}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{1956}
+      \field{urldateera}{ce}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{48\bibrangedash 48}
+      \range{pages}{1}
+      \field{volume}{7}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1090/S0002-9939-1956-0078686-7
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ams.org/jourcgi/jour-getitem?pii=S0002-9939-1956-0078686-7
+      \endverb
+      \verb{url}
+      \verb http://www.ams.org/jourcgi/jour-getitem?pii=S0002-9939-1956-0078686-7
+      \endverb
+    \endentry
     \entry{noauthor_introduction_2009}{book}{}
       \list{language}{1}{%
         {English}%
@@ -305,6 +351,77 @@
       \field{note}{OCLC: 984411568}
       \field{title}{Introduction to algorithms}
       \field{year}{2009}
+    \endentry
+    \entry{noauthor_iso/iec_nodate}{report}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Information technology -- Programming languages -- C\#}
+      \field{title}{{ISO}/{IEC} 23270:2006}
+      \field{type}{techreport}
+      \verb{urlraw}
+      \verb https://www.iso.org/standard/42926.html
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/standard/42926.html
+      \endverb
+    \endentry
+    \entry{cheney_practical_2013}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f4919fe7a53de0806121150ca7f0372b}{%
+           family={Cheney},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=57b68e7d9ae666f817c2c0ec08bec7c9}{%
+           family={Lindley},
+           familyi={L\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b4d861345944ddeeaf658a11c2f0f6a7}{%
+           family={Wadler},
+           familyi={W\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{8ce68d49361ea36811f9ec9dc8e2385e}
+      \strng{fullhash}{8ce68d49361ea36811f9ec9dc8e2385e}
+      \strng{bibnamehash}{8ce68d49361ea36811f9ec9dc8e2385e}
+      \strng{authorbibnamehash}{8ce68d49361ea36811f9ec9dc8e2385e}
+      \strng{authornamehash}{8ce68d49361ea36811f9ec9dc8e2385e}
+      \strng{authorfullhash}{8ce68d49361ea36811f9ec9dc8e2385e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Language-integrated query is receiving renewed attention, in part because of its support through Microsoft’s LINQ framework. We present a practical theory of language-integrated query based on quotation and normalisation of quoted terms. Our technique supports join queries, abstraction over values and predicates, composition of queries, dynamic generation of queries, and queries with nested intermediate data. Higher-order features prove useful even for constructing ﬁrst-order queries. We prove a theorem characterising when a host query is guaranteed to generate a single SQL query. We present experimental results conﬁrming our technique works, even in situations where Microsoft’s LINQ framework either fails to produce an SQL query or, in one case, produces an avalanche of SQL queries.}
+      \field{isbn}{978-1-4503-2326-0}
+      \field{title}{A practical theory of language-integrated query}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{403}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/2500365.2500586
+      \endverb
+      \verb{file}
+      \verb Cheney et al. - 2013 - A practical theory of language-integrated query.pdf:C\:\\Users\\Саша\\Zotero\\storage\\DRUXAJTI\\Cheney et al. - 2013 - A practical theory of language-integrated query.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?doid=2500365.2500586
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?doid=2500365.2500586
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

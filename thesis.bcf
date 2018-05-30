@@ -3257,11 +3257,14 @@
     <bcf:citekey order="7">__2012</bcf:citekey>
     <bcf:citekey order="8">__2010</bcf:citekey>
     <bcf:citekey order="9">prim_shortest_1957</bcf:citekey>
-    <bcf:citekey order="10">prim_shortest_1957</bcf:citekey>
-    <bcf:citekey order="11">de_berg_chapter_2000</bcf:citekey>
-    <bcf:citekey order="12">__2010</bcf:citekey>
-    <bcf:citekey order="13">prim_shortest_1957</bcf:citekey>
-    <bcf:citekey order="14">noauthor_introduction_2009</bcf:citekey>
+    <bcf:citekey order="10">kruskal_shortest_1956</bcf:citekey>
+    <bcf:citekey order="11">prim_shortest_1957</bcf:citekey>
+    <bcf:citekey order="12">de_berg_chapter_2000</bcf:citekey>
+    <bcf:citekey order="13">__2010</bcf:citekey>
+    <bcf:citekey order="14">prim_shortest_1957</bcf:citekey>
+    <bcf:citekey order="15">noauthor_introduction_2009</bcf:citekey>
+    <bcf:citekey order="16">noauthor_iso/iec_nodate</bcf:citekey>
+    <bcf:citekey order="17">cheney_practical_2013</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

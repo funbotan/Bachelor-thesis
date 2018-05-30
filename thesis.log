@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.15)  27 MAY 2018 22:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.15)  28 MAY 2018 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1808,62 +1808,70 @@ Package xcolor Warning: Incompatible color definition on input line 87.
 
 Package xcolor Warning: Incompatible color definition on input line 89.
 
-) (./theory.tex
+
+Package xcolor Warning: Incompatible color definition on input line 91.
+
+) (./theory.tex [10]
 
 Package xcolor Warning: Incompatible color definition on input line 11.
 
-[10]
-<fig/Prim.png, id=233, 643.6547pt x 386.94562pt>
+<fig/Prim.png, id=235, 643.6547pt x 386.94562pt>
 File: fig/Prim.png Graphic file (type png)
 <use fig/Prim.png>
 Package pdftex.def Info: fig/Prim.png  used on input line 15.
 (pdftex.def)             Requested size: 497.92325pt x 299.34836pt.
- [11 <./fig/Prim.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11]
 <fig/split.png, id=240, 895.345pt x 652.4375pt>
 File: fig/split.png Graphic file (type png)
 <use fig/split.png>
 Package pdftex.def Info: fig/split.png  used on input line 29.
 (pdftex.def)             Requested size: 298.75697pt x 217.70428pt.
- [12 <./fig/split.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12 <./fig/Prim.png>]
 
 Package xcolor Warning: Incompatible color definition on input line 37.
 
+[13 <./fig/split.png>]
 
 Package xcolor Warning: Incompatible color definition on input line 48.
 
 
 Package xcolor Warning: Incompatible color definition on input line 50.
 
-[13]
-<fig/errors.png, id=254, 587.94656pt x 397.485pt>
+[14]
+<fig/errors.png, id=260, 587.94656pt x 397.485pt>
 File: fig/errors.png Graphic file (type png)
 <use fig/errors.png>
 Package pdftex.def Info: fig/errors.png  used on input line 70.
 (pdftex.def)             Requested size: 497.92325pt x 336.62656pt.
- [14]
+
 
 Package xcolor Warning: Incompatible color definition on input line 75.
 
+[15 <./fig/errors.png>]
 
 Package xcolor Warning: Incompatible color definition on input line 85.
 
-[15 <./fig/errors.png>]
-<fig/linesegments.png, id=269, 538.26094pt x 394.47375pt>
+<fig/linesegments.png, id=270, 538.26094pt x 394.47375pt>
 File: fig/linesegments.png Graphic file (type png)
 <use fig/linesegments.png>
 Package pdftex.def Info: fig/linesegments.png  used on input line 94.
 (pdftex.def)             Requested size: 497.92325pt x 364.9126pt.
 
-
 Package xcolor Warning: Incompatible color definition on input line 99.
 
-<fig/linesegments2.png, id=271, 571.38469pt x 155.07938pt>
+[16 <./fig/linesegments.png>]
+<fig/linesegments2.png, id=278, 571.38469pt x 155.07938pt>
 File: fig/linesegments2.png Graphic file (type png)
 <use fig/linesegments2.png>
 Package pdftex.def Info: fig/linesegments2.png  used on input line 109.
 (pdftex.def)             Requested size: 497.92325pt x 135.14275pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package xcolor Warning: Incompatible color definition on input line 114.
@@ -1871,38 +1879,46 @@ Package xcolor Warning: Incompatible color definition on input line 114.
 
 Package xcolor Warning: Incompatible color definition on input line 116.
 
-) (./practice.tex [16 <./fig/linesegments.png>] [17 <./fig/linesegments2.png>]
-<fig/dialog.png, id=288, 868.74562pt x 486.31688pt>
+) (./practice.tex [17 <./fig/linesegments2.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+<fig/dialog.png, id=289, 868.74562pt x 486.31688pt>
 File: fig/dialog.png Graphic file (type png)
 <use fig/dialog.png>
-Package pdftex.def Info: fig/dialog.png  used on input line 20.
+Package pdftex.def Info: fig/dialog.png  used on input line 24.
 (pdftex.def)             Requested size: 497.92325pt x 278.73956pt.
 
-[18 <./fig/dialog.png>]
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package xcolor Warning: Incompatible color definition on input line 76.
+[18] [19 <./fig/dialog.png>]
 
-[19]
+Package xcolor Warning: Incompatible color definition on input line 80.
 
-Package xcolor Warning: Incompatible color definition on input line 77.
+[20]
+
+Package xcolor Warning: Incompatible color definition on input line 81.
 
 
-Package xcolor Warning: Incompatible color definition on input line 84.
+Package xcolor Warning: Incompatible color definition on input line 88.
 
 
-Package xcolor Warning: Incompatible color definition on input line 84.
+Package xcolor Warning: Incompatible color definition on input line 88.
 
-<fig/nocuts.png, id=305, 965.6075pt x 724.7075pt>
+<fig/nocuts.png, id=315, 965.6075pt x 724.7075pt>
 File: fig/nocuts.png Graphic file (type png)
 <use fig/nocuts.png>
-Package pdftex.def Info: fig/nocuts.png  used on input line 88.
+Package pdftex.def Info: fig/nocuts.png  used on input line 92.
 (pdftex.def)             Requested size: 497.92325pt x 373.6985pt.
-<fig/result.png, id=306, 965.6075pt x 724.7075pt>
+<fig/result.png, id=316, 965.6075pt x 724.7075pt>
 File: fig/result.png Graphic file (type png)
 <use fig/result.png>
-Package pdftex.def Info: fig/result.png  used on input line 95.
+Package pdftex.def Info: fig/result.png  used on input line 99.
 (pdftex.def)             Requested size: 497.92325pt x 373.6985pt.
-) (./conclusion.tex [20] [21 <./fig/nocuts.png (PNG copy)>]) [22 <./fig/result.
+) (./conclusion.tex [21] [22 <./fig/nocuts.png (PNG copy)>]) [23 <./fig/result.
 png (PNG copy)>]
 
 Package xcolor Warning: Incompatible color definition on input line 90.
@@ -1927,9 +1943,25 @@ Package xcolor Warning: Incompatible color definition on input line 90.
 
 Package xcolor Warning: Incompatible color definition on input line 90.
 
-[23
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+[24
 
 ]
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+[25]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./thesis.aux)
@@ -1947,10 +1979,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 37201 strings out of 492649
- 698324 string characters out of 6133384
- 1423930 words of memory out of 5000000
- 40368 multiletter control sequences out of 15000+600000
+ 37213 strings out of 492649
+ 698776 string characters out of 6133384
+ 1423150 words of memory out of 5000000
+ 40375 multiletter control sequences out of 15000+600000
  20170 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,8n,84p,1922b,2904s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1967,10 +1999,10 @@ xlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018
 t/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2018/texmf-dist/fonts/ty
 pe1/public/cm-super/sfti1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
 /cm-super/sftt1440.pfb>
-Output written on thesis.pdf (23 pages, 4782233 bytes).
+Output written on thesis.pdf (25 pages, 4790430 bytes).
 PDF statistics:
- 406 PDF objects out of 1000 (max. 8388607)
- 322 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 431 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 91 named destinations out of 1000 (max. 500000)
  343 words of extra memory for PDF output out of 10000 (max. 10000000)
 
