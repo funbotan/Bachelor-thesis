@@ -1,10 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.15)  28 MAY 2018 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.10)  1 JUN 2018 11:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
 LaTeX2e <2018-04-01> patch level 4
+Babel <3.20> and hyphenation patterns for 84 language(s) loaded.
 (c:/texlive/2018/texmf-dist/tex/latex/disser/disser.cls
 Document Class: disser 2017/03/03 1.4.1 Document class for dissertations
 (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
@@ -558,16 +559,16 @@ Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@posthook=\toks22
 )
 (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/05/10 3.21 The Babel package
+Package: babel 2018/05/02 3.20 The Babel package
 
 (c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/05/10 3.21 Babel switching mechanism
+File: switch.def 2018/05/02 3.20 Babel switching mechanism
 )
 (c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
 (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/05/10 3.21 Babel common definitions
+File: babel.def 2018/05/02 3.20 Babel common definitions
 \babel@savecnt=\count117
 \U@D=\dimen134
 
@@ -1184,54 +1185,72 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(c:/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen197
+\AM@pageheight=\dimen198
+
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box103
+\AM@global@opts=\toks40
+\AM@toc@title=\toks41
+\c@AM@survey=\count267
+\AM@templatesizebox=\box104
+)
 (c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
 
 (c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count267
+\lrq@indent=\count268
 
 (c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count268
-\c@listtotal=\count269
-\c@listcount=\count270
-\c@liststart=\count271
-\c@liststop=\count272
-\c@citecount=\count273
-\c@citetotal=\count274
-\c@multicitecount=\count275
-\c@multicitetotal=\count276
-\c@instcount=\count277
-\c@maxnames=\count278
-\c@minnames=\count279
-\c@maxitems=\count280
-\c@minitems=\count281
-\c@citecounter=\count282
-\c@savedcitecounter=\count283
-\c@uniquelist=\count284
-\c@uniquename=\count285
-\c@refsection=\count286
-\c@refsegment=\count287
-\c@maxextratitle=\count288
-\c@maxextratitleyear=\count289
-\c@maxextradate=\count290
-\c@maxextraalpha=\count291
-\c@abbrvpenalty=\count292
-\c@highnamepenalty=\count293
-\c@lownamepenalty=\count294
-\c@maxparens=\count295
-\c@parenlevel=\count296
-\blx@tempcnta=\count297
-\blx@tempcntb=\count298
-\blx@tempcntc=\count299
-\blx@maxsection=\count300
-\blx@maxsegment@0=\count301
-\blx@notetype=\count302
-\blx@parenlevel@text=\count303
-\blx@parenlevel@foot=\count304
-\blx@sectionciteorder@0=\count305
+\c@tabx@nest=\count269
+\c@listtotal=\count270
+\c@listcount=\count271
+\c@liststart=\count272
+\c@liststop=\count273
+\c@citecount=\count274
+\c@citetotal=\count275
+\c@multicitecount=\count276
+\c@multicitetotal=\count277
+\c@instcount=\count278
+\c@maxnames=\count279
+\c@minnames=\count280
+\c@maxitems=\count281
+\c@minitems=\count282
+\c@citecounter=\count283
+\c@savedcitecounter=\count284
+\c@uniquelist=\count285
+\c@uniquename=\count286
+\c@refsection=\count287
+\c@refsegment=\count288
+\c@maxextratitle=\count289
+\c@maxextratitleyear=\count290
+\c@maxextradate=\count291
+\c@maxextraalpha=\count292
+\c@abbrvpenalty=\count293
+\c@highnamepenalty=\count294
+\c@lownamepenalty=\count295
+\c@maxparens=\count296
+\c@parenlevel=\count297
+\blx@tempcnta=\count298
+\blx@tempcntb=\count299
+\blx@tempcntc=\count300
+\blx@maxsection=\count301
+\blx@maxsegment@0=\count302
+\blx@notetype=\count303
+\blx@parenlevel@text=\count304
+\blx@parenlevel@foot=\count305
+\blx@sectionciteorder@0=\count306
 \labelnumberwidth=\skip79
 \labelalphawidth=\skip80
 \biblabelsep=\skip81
@@ -1242,9 +1261,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip86
 \blx@bcfin=\read2
 \blx@bcfout=\write5
-\c@mincomprange=\count306
-\c@maxcomprange=\count307
-\c@mincompwidth=\count308
+\c@mincomprange=\count307
+\c@maxcomprange=\count308
+\c@mincompwidth=\count309
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1264,96 +1283,96 @@ File: biblatex-gost.dbx 2018/02/20 v1.17 biblatex-gost data model
 ))
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count309
-\c@savedafterword=\count310
-\c@annotator=\count311
-\c@savedannotator=\count312
-\c@author=\count313
-\c@savedauthor=\count314
-\c@bookauthor=\count315
-\c@savedbookauthor=\count316
-\c@commentator=\count317
-\c@savedcommentator=\count318
-\c@editor=\count319
-\c@savededitor=\count320
-\c@editora=\count321
-\c@savededitora=\count322
-\c@editorb=\count323
-\c@savededitorb=\count324
-\c@editorc=\count325
-\c@savededitorc=\count326
-\c@foreword=\count327
-\c@savedforeword=\count328
-\c@holder=\count329
-\c@savedholder=\count330
-\c@introduction=\count331
-\c@savedintroduction=\count332
-\c@namea=\count333
-\c@savednamea=\count334
-\c@nameb=\count335
-\c@savednameb=\count336
-\c@namec=\count337
-\c@savednamec=\count338
-\c@translator=\count339
-\c@savedtranslator=\count340
-\c@shortauthor=\count341
-\c@savedshortauthor=\count342
-\c@shorteditor=\count343
-\c@savedshorteditor=\count344
-\c@booktranslator=\count345
-\c@savedbooktranslator=\count346
-\c@bookcommentator=\count347
-\c@savedbookcommentator=\count348
-\c@bookannotator=\count349
-\c@savedbookannotator=\count350
-\c@bookintroduction=\count351
-\c@savedbookintroduction=\count352
-\c@bookforeword=\count353
-\c@savedbookforeword=\count354
-\c@bookafterword=\count355
-\c@savedbookafterword=\count356
-\c@labelname=\count357
-\c@savedlabelname=\count358
-\c@institution=\count359
-\c@savedinstitution=\count360
-\c@lista=\count361
-\c@savedlista=\count362
-\c@listb=\count363
-\c@savedlistb=\count364
-\c@listc=\count365
-\c@savedlistc=\count366
-\c@listd=\count367
-\c@savedlistd=\count368
-\c@liste=\count369
-\c@savedliste=\count370
-\c@listf=\count371
-\c@savedlistf=\count372
-\c@location=\count373
-\c@savedlocation=\count374
-\c@organization=\count375
-\c@savedorganization=\count376
-\c@origlocation=\count377
-\c@savedoriglocation=\count378
-\c@origpublisher=\count379
-\c@savedorigpublisher=\count380
-\c@publisher=\count381
-\c@savedpublisher=\count382
-\c@language=\count383
-\c@savedlanguage=\count384
-\c@origlanguage=\count385
-\c@savedoriglanguage=\count386
-\c@bookoriglanguage=\count387
-\c@savedbookoriglanguage=\count388
-\c@specdata=\count389
-\c@savedspecdata=\count390
-\c@credits=\count391
-\c@savedcredits=\count392
-\c@bookcredits=\count393
-\c@savedbookcredits=\count394
-\c@editioncredits=\count395
-\c@savededitioncredits=\count396
-\c@pageref=\count397
-\c@savedpageref=\count398
+\c@afterword=\count310
+\c@savedafterword=\count311
+\c@annotator=\count312
+\c@savedannotator=\count313
+\c@author=\count314
+\c@savedauthor=\count315
+\c@bookauthor=\count316
+\c@savedbookauthor=\count317
+\c@commentator=\count318
+\c@savedcommentator=\count319
+\c@editor=\count320
+\c@savededitor=\count321
+\c@editora=\count322
+\c@savededitora=\count323
+\c@editorb=\count324
+\c@savededitorb=\count325
+\c@editorc=\count326
+\c@savededitorc=\count327
+\c@foreword=\count328
+\c@savedforeword=\count329
+\c@holder=\count330
+\c@savedholder=\count331
+\c@introduction=\count332
+\c@savedintroduction=\count333
+\c@namea=\count334
+\c@savednamea=\count335
+\c@nameb=\count336
+\c@savednameb=\count337
+\c@namec=\count338
+\c@savednamec=\count339
+\c@translator=\count340
+\c@savedtranslator=\count341
+\c@shortauthor=\count342
+\c@savedshortauthor=\count343
+\c@shorteditor=\count344
+\c@savedshorteditor=\count345
+\c@booktranslator=\count346
+\c@savedbooktranslator=\count347
+\c@bookcommentator=\count348
+\c@savedbookcommentator=\count349
+\c@bookannotator=\count350
+\c@savedbookannotator=\count351
+\c@bookintroduction=\count352
+\c@savedbookintroduction=\count353
+\c@bookforeword=\count354
+\c@savedbookforeword=\count355
+\c@bookafterword=\count356
+\c@savedbookafterword=\count357
+\c@labelname=\count358
+\c@savedlabelname=\count359
+\c@institution=\count360
+\c@savedinstitution=\count361
+\c@lista=\count362
+\c@savedlista=\count363
+\c@listb=\count364
+\c@savedlistb=\count365
+\c@listc=\count366
+\c@savedlistc=\count367
+\c@listd=\count368
+\c@savedlistd=\count369
+\c@liste=\count370
+\c@savedliste=\count371
+\c@listf=\count372
+\c@savedlistf=\count373
+\c@location=\count374
+\c@savedlocation=\count375
+\c@organization=\count376
+\c@savedorganization=\count377
+\c@origlocation=\count378
+\c@savedoriglocation=\count379
+\c@origpublisher=\count380
+\c@savedorigpublisher=\count381
+\c@publisher=\count382
+\c@savedpublisher=\count383
+\c@language=\count384
+\c@savedlanguage=\count385
+\c@origlanguage=\count386
+\c@savedoriglanguage=\count387
+\c@bookoriglanguage=\count388
+\c@savedbookoriglanguage=\count389
+\c@specdata=\count390
+\c@savedspecdata=\count391
+\c@credits=\count392
+\c@savedcredits=\count393
+\c@bookcredits=\count394
+\c@savedbookcredits=\count395
+\c@editioncredits=\count396
+\c@savededitioncredits=\count397
+\c@pageref=\count398
+\c@savedpageref=\count399
 \shorthandwidth=\skip87
 \shortjournalwidth=\skip88
 \shortserieswidth=\skip89
@@ -1379,13 +1398,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-\c@textcitecount=\count399
-\c@textcitetotal=\count400
-\c@textcitemaxnames=\count401
-\c@biburlnumpenalty=\count402
-\c@biburlucpenalty=\count403
-\c@biburllcpenalty=\count404
-\c@smartand=\count405
+\c@textcitecount=\count400
+\c@textcitetotal=\count401
+\c@textcitemaxnames=\count402
+\c@biburlnumpenalty=\count403
+\c@biburlucpenalty=\count404
+\c@biburllcpenalty=\count405
+\c@smartand=\count406
 )
 Package biblatex Info: Trying to load bibliography style 'gost-numeric'...
 Package biblatex Info: ... file 'gost-numeric.bbx' found.
@@ -1403,9 +1422,9 @@ Package biblatex Info: ... file 'biblatex-gost.def' found.
 (c:/texlive/2018/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
 File: biblatex-gost.def 2018/02/20 v1.17 biblatex-gost styles
 )
-\c@blx@gost@pointer=\count406
-\c@bbx:relatedcount=\count407
-\c@bbx:relatedtotal=\count408
+\c@blx@gost@pointer=\count407
+\c@bbx:relatedcount=\count408
+\c@bbx:relatedtotal=\count409
 Package biblatex Info: Redefining autocite command 'footnote'.
 Package biblatex Info: Redefining autocite command 'superscript'.
 ))
@@ -1419,8 +1438,8 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (c:/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count409
-\c@cbx@tempcntb=\count410
+\c@cbx@tempcnta=\count410
+\c@cbx@tempcntb=\count411
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1523,41 +1542,41 @@ LaTeX Warning: Label `' multiply defined.
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box103
-Package hyperref Info: Link coloring ON on input line 63.
+\AtBeginShipoutBox=\box105
+Package hyperref Info: Link coloring ON on input line 64.
  (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count411
+\c@section@level=\count412
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write6
@@ -1566,17 +1585,17 @@ LaTeX Info: Redefining \nameref on input line 63.
 
 (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count412
-\scratchdimen=\dimen197
-\scratchbox=\box104
-\nofMPsegments=\count413
-\nofMParguments=\count414
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count415
-\MPscratchDim=\dimen198
-\MPnumerator=\count416
-\makeMPintoPDFobject=\count417
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count413
+\scratchdimen=\dimen199
+\scratchbox=\box106
+\nofMPsegments=\count414
+\nofMParguments=\count415
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count416
+\MPscratchDim=\dimen256
+\MPnumerator=\count417
+\makeMPintoPDFobject=\count418
+\everyMPtoPDFconversion=\toks43
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1613,7 +1632,16 @@ LaTeX Info: Redefining \nameref on input line 63.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count418
+\c@lstlisting=\count419
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1622,17 +1650,42 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 63.
-Package biblatex Info: Reference segment=0 on input line 63.
-\firstskip=\skip101
-\secondskip=\skip102
-\thirdskip=\skip103
-\fourthskip=\skip104
-\fifthskip=\skip105
-\sixthskip=\skip106
- [1
+Package biblatex Info: Reference section=0 on input line 64.
+Package biblatex Info: Reference segment=0 on input line 64.
+<title.pdf, id=104, 597.55246pt x 845.07718pt>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf>
+Package pdftex.def Info: title.pdf  used on input line 81.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: title.pdf Graphic file (type pdf)
+<use title.pdf>
+Package pdftex.def Info: title.pdf  used on input line 81.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+<title.pdf, id=107, page=1, 597.55246pt x 845.07718pt>
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf , page1 used on input line 81.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf , page1 used on input line 81.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf , page1 used on input line 81.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf , page1 used on input line 81.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: title.pdf Graphic file (type pdf)
+<use title.pdf, page 1>
+Package pdftex.def Info: title.pdf , page1 used on input line 81.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 
-{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./thesis.toc
+[1
+
+ <./title.pdf>] (./thesis.toc
 
 Package xcolor Warning: Incompatible color definition on input line 4.
 
@@ -1702,10 +1755,10 @@ Package xcolor Warning: Incompatible color definition on input line 42.
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
- [2
+ [2{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
-] (./intro.tex) (./task.tex
+]
+(./intro.tex) (./task.tex
 
 Package xcolor Warning: Incompatible color definition on input line 4.
 
@@ -1723,7 +1776,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<fig/gml.png, id=147, 252.945pt x 205.76875pt>
+<fig/gml.png, id=163, 252.945pt x 205.76875pt>
 File: fig/gml.png Graphic file (type png)
 <use fig/gml.png>
 Package pdftex.def Info: fig/gml.png  used on input line 11.
@@ -1738,7 +1791,7 @@ Package xcolor Warning: Incompatible color definition on input line 24.
 Package xcolor Warning: Incompatible color definition on input line 26.
 
 [5]
-<fig/tatuk.png, id=175, 338.76563pt x 347.04657pt>
+<fig/tatuk.png, id=192, 338.76563pt x 347.04657pt>
 File: fig/tatuk.png Graphic file (type png)
 <use fig/tatuk.png>
 Package pdftex.def Info: fig/tatuk.png  used on input line 30.
@@ -1756,7 +1809,7 @@ Package xcolor Warning: Incompatible color definition on input line 39.
 Package xcolor Warning: Incompatible color definition on input line 39.
 
 [6 <./fig/tatuk.png>]
-<fig/koshi.png, id=186, 170.13562pt x 115.18031pt>
+<fig/koshi.png, id=202, 170.13562pt x 115.18031pt>
 File: fig/koshi.png Graphic file (type png)
 <use fig/koshi.png>
 Package pdftex.def Info: fig/koshi.png  used on input line 43.
@@ -1771,7 +1824,7 @@ Package xcolor Warning: Incompatible color definition on input line 47.
 
 Package xcolor Warning: Incompatible color definition on input line 47.
 
-<fig/triangulation.png, id=190, 88.33pt x 162.6075pt>
+<fig/triangulation.png, id=206, 88.33pt x 162.6075pt>
 File: fig/triangulation.png Graphic file (type png)
 <use fig/triangulation.png>
 Package pdftex.def Info: fig/triangulation.png  used on input line 51.
@@ -1786,13 +1839,13 @@ Package xcolor Warning: Incompatible color definition on input line 63.
 
 Package xcolor Warning: Incompatible color definition on input line 63.
 
-<fig/topology.png, id=205, 724.7075pt x 202.7575pt>
+<fig/topology.png, id=221, 724.7075pt x 202.7575pt>
 File: fig/topology.png Graphic file (type png)
 <use fig/topology.png>
 Package pdftex.def Info: fig/topology.png  used on input line 67.
 (pdftex.def)             Requested size: 497.92325pt x 139.3088pt.
 [8 <./fig/triangulation.png> <./fig/topology.png>]
-<fig/reduce.png, id=213, 534.99875pt x 327.2225pt>
+<fig/reduce.png, id=229, 534.99875pt x 327.2225pt>
 File: fig/reduce.png Graphic file (type png)
 <use fig/reduce.png>
 Package pdftex.def Info: fig/reduce.png  used on input line 75.
@@ -1815,7 +1868,7 @@ Package xcolor Warning: Incompatible color definition on input line 91.
 
 Package xcolor Warning: Incompatible color definition on input line 11.
 
-<fig/Prim.png, id=235, 643.6547pt x 386.94562pt>
+<fig/Prim.png, id=251, 643.6547pt x 386.94562pt>
 File: fig/Prim.png Graphic file (type png)
 <use fig/Prim.png>
 Package pdftex.def Info: fig/Prim.png  used on input line 15.
@@ -1824,7 +1877,7 @@ Package pdftex.def Info: fig/Prim.png  used on input line 15.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11]
-<fig/split.png, id=240, 895.345pt x 652.4375pt>
+<fig/split.png, id=256, 895.345pt x 652.4375pt>
 File: fig/split.png Graphic file (type png)
 <use fig/split.png>
 Package pdftex.def Info: fig/split.png  used on input line 29.
@@ -1845,7 +1898,7 @@ Package xcolor Warning: Incompatible color definition on input line 48.
 Package xcolor Warning: Incompatible color definition on input line 50.
 
 [14]
-<fig/errors.png, id=260, 587.94656pt x 397.485pt>
+<fig/errors.png, id=276, 587.94656pt x 397.485pt>
 File: fig/errors.png Graphic file (type png)
 <use fig/errors.png>
 Package pdftex.def Info: fig/errors.png  used on input line 70.
@@ -1858,7 +1911,7 @@ Package xcolor Warning: Incompatible color definition on input line 75.
 
 Package xcolor Warning: Incompatible color definition on input line 85.
 
-<fig/linesegments.png, id=270, 538.26094pt x 394.47375pt>
+<fig/linesegments.png, id=286, 538.26094pt x 394.47375pt>
 File: fig/linesegments.png Graphic file (type png)
 <use fig/linesegments.png>
 Package pdftex.def Info: fig/linesegments.png  used on input line 94.
@@ -1867,7 +1920,7 @@ Package pdftex.def Info: fig/linesegments.png  used on input line 94.
 Package xcolor Warning: Incompatible color definition on input line 99.
 
 [16 <./fig/linesegments.png>]
-<fig/linesegments2.png, id=278, 571.38469pt x 155.07938pt>
+<fig/linesegments2.png, id=294, 571.38469pt x 155.07938pt>
 File: fig/linesegments2.png Graphic file (type png)
 <use fig/linesegments2.png>
 Package pdftex.def Info: fig/linesegments2.png  used on input line 109.
@@ -1886,7 +1939,7 @@ Package xcolor Warning: Incompatible color definition on input line 13.
 
 Package xcolor Warning: Incompatible color definition on input line 15.
 
-<fig/dialog.png, id=289, 868.74562pt x 486.31688pt>
+<fig/dialog.png, id=305, 868.74562pt x 486.31688pt>
 File: fig/dialog.png Graphic file (type png)
 <use fig/dialog.png>
 Package pdftex.def Info: fig/dialog.png  used on input line 24.
@@ -1908,12 +1961,12 @@ Package xcolor Warning: Incompatible color definition on input line 88.
 
 Package xcolor Warning: Incompatible color definition on input line 88.
 
-<fig/nocuts.png, id=315, 965.6075pt x 724.7075pt>
+<fig/nocuts.png, id=332, 965.6075pt x 724.7075pt>
 File: fig/nocuts.png Graphic file (type png)
 <use fig/nocuts.png>
 Package pdftex.def Info: fig/nocuts.png  used on input line 92.
 (pdftex.def)             Requested size: 497.92325pt x 373.6985pt.
-<fig/result.png, id=316, 965.6075pt x 724.7075pt>
+<fig/result.png, id=333, 965.6075pt x 724.7075pt>
 File: fig/result.png Graphic file (type png)
 <use fig/result.png>
 Package pdftex.def Info: fig/result.png  used on input line 99.
@@ -1921,52 +1974,52 @@ Package pdftex.def Info: fig/result.png  used on input line 99.
 ) (./conclusion.tex [21] [22 <./fig/nocuts.png (PNG copy)>]) [23 <./fig/result.
 png (PNG copy)>]
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 90.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 91.
 
 (c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 [24
 
 ]
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 
-Package xcolor Warning: Incompatible color definition on input line 90.
+Package xcolor Warning: Incompatible color definition on input line 91.
 
 [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 24BF55AA965A7D084FB68C862647FF1B;3819.
 
@@ -1976,16 +2029,16 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 37213 strings out of 492649
- 698776 string characters out of 6133384
- 1423150 words of memory out of 5000000
- 40375 multiletter control sequences out of 15000+600000
+ 37834 strings out of 492649
+ 708891 string characters out of 6133384
+ 1436543 words of memory out of 5000000
+ 40977 multiletter control sequences out of 15000+600000
  20170 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,84p,1922b,2904s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,18n,84p,1922b,2904s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dis
@@ -1996,13 +2049,12 @@ c/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super
 pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/te
 xlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018
 /texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2018/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/cm-super/sfti1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
-/cm-super/sftt1440.pfb>
-Output written on thesis.pdf (25 pages, 4790430 bytes).
+t/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/public/cm-super/sftt1440.pfb>
+Output written on thesis.pdf (25 pages, 4844518 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
+ 444 PDF objects out of 1000 (max. 8388607)
+ 353 compressed objects within 4 object streams
  91 named destinations out of 1000 (max. 500000)
- 343 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 363 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -23,6 +23,7 @@ colorlinks,  % цветные гиперссылки
 \usepackage{enumitem}
 \usepackage{tikz-uml}
 \usepackage{listings}
+\usepackage{pdfpages}
 
 % Шрифт Times в тексте как основной
 %\usepackage{tempora}
@@ -77,7 +78,7 @@ colorlinks,  % цветные гиперссылки
 \city{Москва}
 \date{2018}
 
-\maketitle
+\includepdf[pages=-]{title.pdf}
 \tableofcontents
 
 \input{intro}
