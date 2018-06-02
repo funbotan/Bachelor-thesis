@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.10)  1 JUN 2018 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.10)  2 JUN 2018 10:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -264,8 +264,8 @@ Package color Info: Driver file: pdftex.def on input line 147.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 1472.
 )
-(c:/texlive/2018/texmf-dist/tex/latex/disser/bachelor.rtx
-File: bachelor.rtx 
+(c:/texlive/2018/texmf-dist/tex/latex/disser/master.rtx
+File: master.rtx 
 )
 (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
@@ -2033,8 +2033,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
  37834 strings out of 492649
- 708891 string characters out of 6133384
- 1436543 words of memory out of 5000000
+ 708881 string characters out of 6133384
+ 1436641 words of memory out of 5000000
  40977 multiletter control sequences out of 15000+600000
  20170 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
