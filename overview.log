@@ -1,10 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.15)  28 MAY 2018 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.5.10)  3 JUN 2018 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **overview.tex
 (./overview.tex
 LaTeX2e <2018-04-01> patch level 4
+Babel <3.20> and hyphenation patterns for 84 language(s) loaded.
 ! Undefined control sequence.
 l.1 \section
             {Обзор предметной области}
@@ -1917,7 +1918,7 @@ l.7 ...ческой информации. Спец
 Here is how much of TeX's memory you used:
  64 strings out of 492649
  878 string characters out of 6133384
- 56998 words of memory out of 5000000
+ 57065 words of memory out of 5000000
  4041 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
